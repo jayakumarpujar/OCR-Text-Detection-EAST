@@ -1,4 +1,4 @@
-# Text-Detection-EAST-text-detector-
+# OCR Text-Detection-EAST
 OpenCV Text Detection (EAST text detector) OCR
 
 
