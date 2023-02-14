@@ -1,0 +1,15 @@
+h5py==2.10.0
+matplotlib
+numpy
+opencv-python==4.2.0.32
+Pillow
+scipy
+Shapely
+tensorboard==1.15.0
+tensorflow==1.15.0
+tensorflow-gpu==1.15.0
+tf-slim==1.1.0
+protobuf==3.20.*
+pyyaml
+
+

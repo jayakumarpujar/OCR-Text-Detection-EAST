@@ -1,0 +1,14 @@
+project_name: ocr
+data_set_name: sample_td_data
+pretrained_checkpoint_name: "model.ckpt-22"
+output_model : "/models/model_download.pb"
+total_steps: 100
+save_checkpoint_steps: 5
+max_checkpoints_to_keep: 1
+batch_size_per_gpu: 8
+learning_rate: 0.0001
+num_readers: 24
+geometry: RBOX
+restore: False
+
+  
